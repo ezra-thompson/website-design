@@ -1,0 +1,35 @@
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+body {
+    font-family: 'Rozha One', serif;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0 auto;
+}
+#img-div {
+    background: white;
+    color: black;
+    padding: 60px;
+}
+#main {
+    padding: 10px;
+    background: #000000;
+    color: white;
+}
+
+.heading {
+    color: white;
+    background-color: #000000;
+    padding: 45px;
+}
+
+#tribute-info {
+    padding: 60px;
+}
+#img-caption {
+    padding-top: 20px;
+}
